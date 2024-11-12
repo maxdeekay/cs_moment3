@@ -12,3 +12,4 @@ C:\Users\maxas\Documents\miun\code\c#\moment3\obj\Debug\net8.0\refint\moment3.dl
 C:\Users\maxas\Documents\miun\code\c#\moment3\obj\Debug\net8.0\moment3.pdb
 C:\Users\maxas\Documents\miun\code\c#\moment3\obj\Debug\net8.0\moment3.genruntimeconfig.cache
 C:\Users\maxas\Documents\miun\code\c#\moment3\obj\Debug\net8.0\ref\moment3.dll
+C:\Users\maxas\Documents\miun\code\c#\moment3\obj\Debug\net8.0\moment3.sourcelink.json

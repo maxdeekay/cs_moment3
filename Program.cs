@@ -25,6 +25,8 @@ namespace reviews
                     Console.WriteLine("[" + i++ + "] " + review.Name + " - " + review.Message);
                 }
 
+                Console.WriteLine(""); // whitespace efter inlästa reviews
+
                 int input = (int) Console.ReadKey(true).Key;
 
                 switch (input) {
